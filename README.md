@@ -1,1 +1,1 @@
-# Projeto-computa-o-paralela-leitor-de-erros-e-contador-de-bytes
+# Projeto-computacao-paralela-leitor-de-erros-e-contador-de-bytes
